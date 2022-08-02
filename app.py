@@ -1,4 +1,4 @@
-
+import pandas as pd
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 from flask_ngrok import run_with_ngrok
